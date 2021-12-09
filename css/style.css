@@ -89,6 +89,7 @@ a {
     color: #fff;
     margin: 15px 0;
     display: inline-block;
+    cursor: pointer;
     transition: color 0.5s ease;
 }
 
@@ -137,6 +138,7 @@ a {
 
 .user-info__wrapper .user-name {
     color: #fff;
+    cursor: pointer;
     transition: color 0.5s ease;
 }
 
